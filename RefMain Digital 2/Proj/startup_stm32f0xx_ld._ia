@@ -1,0 +1,1 @@
+--cpu Cortex-M0 -g --apcs=interwork -I C:\Keil_v4\ARM\RV31\Inc -I C:\Keil_v4\ARM\CMSIS\Include -I C:\Keil_v4\ARM\Inc\ST\STM32F0xx --list ".\startup_stm32f0xx_ld.lst" --xref -o ".\startup_stm32f0xx_ld.o" --depend ".\startup_stm32f0xx_ld.d" "..\System\startup\startup_stm32f0xx_ld.s"
